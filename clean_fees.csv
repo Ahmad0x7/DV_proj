@@ -1,0 +1,397 @@
+Year,State,Type,Length,Expense,Value
+2020,Alabama,Private,4-year,Fees/Tuition,16743
+2020,Alabama,Private,4-year,Room/Board,10344
+2020,Alabama,Public In-State,2-year,Fees/Tuition,4854
+2020,Alabama,Public In-State,4-year,Fees/Tuition,10323
+2020,Alabama,Public In-State,4-year,Room/Board,10175
+2020,Alabama,Public Out-of-State,2-year,Fees/Tuition,9707
+2020,Alabama,Public Out-of-State,4-year,Fees/Tuition,26517
+2020,Alabama,Public Out-of-State,4-year,Room/Board,10175
+2020,Alaska,Private,4-year,Fees/Tuition,19682
+2020,Alaska,Private,4-year,Room/Board,8092
+2020,Alaska,Public In-State,4-year,Fees/Tuition,8297
+2020,Alaska,Public In-State,4-year,Room/Board,11322
+2020,Alaska,Public Out-of-State,4-year,Fees/Tuition,26767
+2020,Alaska,Public Out-of-State,4-year,Room/Board,11322
+2020,Arizona,Private,4-year,Fees/Tuition,12895
+2020,Arizona,Private,4-year,Room/Board,9757
+2020,Arizona,Public In-State,2-year,Fees/Tuition,2151
+2020,Arizona,Public In-State,4-year,Fees/Tuition,11072
+2020,Arizona,Public In-State,4-year,Room/Board,12944
+2020,Arizona,Public Out-of-State,2-year,Fees/Tuition,7642
+2020,Arizona,Public Out-of-State,4-year,Fees/Tuition,27417
+2020,Arizona,Public Out-of-State,4-year,Room/Board,12944
+2020,Arkansas,Private,4-year,Fees/Tuition,23875
+2020,Arkansas,Private,4-year,Room/Board,8513
+2020,Arkansas,Public In-State,2-year,Fees/Tuition,3398
+2020,Arkansas,Public In-State,4-year,Fees/Tuition,8689
+2020,Arkansas,Public In-State,4-year,Room/Board,9535
+2020,Arkansas,Public Out-of-State,2-year,Fees/Tuition,4688
+2020,Arkansas,Public Out-of-State,4-year,Fees/Tuition,21460
+2020,Arkansas,Public Out-of-State,4-year,Room/Board,9535
+2020,California,Private,4-year,Fees/Tuition,37009
+2020,California,Private,4-year,Room/Board,14741
+2020,California,Public In-State,2-year,Fees/Tuition,1270
+2020,California,Public In-State,4-year,Fees/Tuition,8192
+2020,California,Public In-State,4-year,Room/Board,14845
+2020,California,Public Out-of-State,2-year,Fees/Tuition,8194
+2020,California,Public Out-of-State,4-year,Fees/Tuition,32177
+2020,California,Public Out-of-State,4-year,Room/Board,14845
+2020,Colorado,Private,4-year,Fees/Tuition,23791
+2020,Colorado,Private,4-year,Room/Board,13229
+2020,Colorado,Public In-State,2-year,Fees/Tuition,3355
+2020,Colorado,Public In-State,4-year,Fees/Tuition,9144
+2020,Colorado,Public In-State,4-year,Room/Board,13041
+2020,Colorado,Public Out-of-State,2-year,Fees/Tuition,7103
+2020,Colorado,Public Out-of-State,4-year,Fees/Tuition,30773
+2020,Colorado,Public Out-of-State,4-year,Room/Board,13041
+2020,Connecticut,Private,4-year,Fees/Tuition,43242
+2020,Connecticut,Private,4-year,Room/Board,15332
+2020,Connecticut,Public In-State,2-year,Fees/Tuition,4516
+2020,Connecticut,Public In-State,4-year,Fees/Tuition,13886
+2020,Connecticut,Public In-State,4-year,Room/Board,13677
+2020,Connecticut,Public Out-of-State,2-year,Fees/Tuition,13490
+2020,Connecticut,Public Out-of-State,4-year,Fees/Tuition,35197
+2020,Connecticut,Public Out-of-State,4-year,Room/Board,13677
+2020,Delaware,Private,4-year,Fees/Tuition,14858
+2020,Delaware,Private,4-year,Room/Board,12548
+2020,Delaware,Public In-State,4-year,Fees/Tuition,11091
+2020,Delaware,Public In-State,4-year,Room/Board,13267
+2020,Delaware,Public Out-of-State,4-year,Fees/Tuition,31582
+2020,Delaware,Public Out-of-State,4-year,Room/Board,13267
+2020,District of Columbia,Private,4-year,Fees/Tuition,44134
+2020,District of Columbia,Private,4-year,Room/Board,16697
+2020,District of Columbia,Public In-State,4-year,Fees/Tuition,6020
+2020,District of Columbia,Public Out-of-State,4-year,Fees/Tuition,12704
+2020,Florida,Private,4-year,Fees/Tuition,27381
+2020,Florida,Private,4-year,Room/Board,12469
+2020,Florida,Public In-State,2-year,Fees/Tuition,2506
+2020,Florida,Public In-State,4-year,Fees/Tuition,4463
+2020,Florida,Public In-State,4-year,Room/Board,10774
+2020,Florida,Public Out-of-State,2-year,Fees/Tuition,9111
+2020,Florida,Public Out-of-State,4-year,Fees/Tuition,18514
+2020,Florida,Public Out-of-State,4-year,Room/Board,10774
+2020,Georgia,Private,4-year,Fees/Tuition,29752
+2020,Georgia,Private,4-year,Room/Board,13050
+2020,Georgia,Public In-State,2-year,Fees/Tuition,3156
+2020,Georgia,Public In-State,4-year,Fees/Tuition,7457
+2020,Georgia,Public In-State,4-year,Room/Board,11096
+2020,Georgia,Public Out-of-State,2-year,Fees/Tuition,8398
+2020,Georgia,Public Out-of-State,4-year,Fees/Tuition,23167
+2020,Georgia,Public Out-of-State,4-year,Room/Board,11096
+2020,Hawaii,Private,4-year,Fees/Tuition,17977
+2020,Hawaii,Private,4-year,Room/Board,14148
+2020,Hawaii,Public In-State,2-year,Fees/Tuition,3225
+2020,Hawaii,Public In-State,4-year,Fees/Tuition,10109
+2020,Hawaii,Public In-State,4-year,Room/Board,11745
+2020,Hawaii,Public Out-of-State,2-year,Fees/Tuition,8391
+2020,Hawaii,Public Out-of-State,4-year,Fees/Tuition,31774
+2020,Hawaii,Public Out-of-State,4-year,Room/Board,11745
+2020,Idaho,Private,4-year,Fees/Tuition,6429
+2020,Idaho,Private,4-year,Room/Board,7951
+2020,Idaho,Public In-State,2-year,Fees/Tuition,3335
+2020,Idaho,Public In-State,4-year,Fees/Tuition,7518
+2020,Idaho,Public In-State,4-year,Room/Board,8820
+2020,Idaho,Public Out-of-State,2-year,Fees/Tuition,8295
+2020,Idaho,Public Out-of-State,4-year,Fees/Tuition,24845
+2020,Idaho,Public Out-of-State,4-year,Room/Board,8820
+2020,Illinois,Private,4-year,Fees/Tuition,35570
+2020,Illinois,Private,4-year,Room/Board,13506
+2020,Illinois,Public In-State,2-year,Fees/Tuition,4035
+2020,Illinois,Public In-State,4-year,Fees/Tuition,14455
+2020,Illinois,Public In-State,4-year,Room/Board,11351
+2020,Illinois,Public Out-of-State,2-year,Fees/Tuition,11450
+2020,Illinois,Public Out-of-State,4-year,Fees/Tuition,29515
+2020,Illinois,Public Out-of-State,4-year,Room/Board,11351
+2020,Indiana,Private,4-year,Fees/Tuition,34263
+2020,Indiana,Private,4-year,Room/Board,12241
+2020,Indiana,Public In-State,2-year,Fees/Tuition,4500
+2020,Indiana,Public In-State,4-year,Fees/Tuition,9268
+2020,Indiana,Public In-State,4-year,Room/Board,10718
+2020,Indiana,Public Out-of-State,2-year,Fees/Tuition,8661
+2020,Indiana,Public Out-of-State,4-year,Fees/Tuition,29533
+2020,Indiana,Public Out-of-State,4-year,Room/Board,10718
+2020,Iowa,Private,4-year,Fees/Tuition,35019
+2020,Iowa,Private,4-year,Room/Board,9831
+2020,Iowa,Public In-State,2-year,Fees/Tuition,5306
+2020,Iowa,Public In-State,4-year,Fees/Tuition,9373
+2020,Iowa,Public In-State,4-year,Room/Board,10436
+2020,Iowa,Public Out-of-State,2-year,Fees/Tuition,6664
+2020,Iowa,Public Out-of-State,4-year,Fees/Tuition,27346
+2020,Iowa,Public Out-of-State,4-year,Room/Board,10436
+2020,Kansas,Private,4-year,Fees/Tuition,24179
+2020,Kansas,Private,4-year,Room/Board,9632
+2020,Kansas,Public In-State,2-year,Fees/Tuition,3542
+2020,Kansas,Public In-State,4-year,Fees/Tuition,9088
+2020,Kansas,Public In-State,4-year,Room/Board,10013
+2020,Kansas,Public Out-of-State,2-year,Fees/Tuition,4695
+2020,Kansas,Public Out-of-State,4-year,Fees/Tuition,23745
+2020,Kansas,Public Out-of-State,4-year,Room/Board,10013
+2020,Kentucky,Private,4-year,Fees/Tuition,26928
+2020,Kentucky,Private,4-year,Room/Board,9354
+2020,Kentucky,Public In-State,2-year,Fees/Tuition,4395
+2020,Kentucky,Public In-State,4-year,Fees/Tuition,10888
+2020,Kentucky,Public In-State,4-year,Room/Board,10911
+2020,Kentucky,Public Out-of-State,2-year,Fees/Tuition,14826
+2020,Kentucky,Public Out-of-State,4-year,Fees/Tuition,26048
+2020,Kentucky,Public Out-of-State,4-year,Room/Board,10911
+2020,Louisiana,Private,4-year,Fees/Tuition,39482
+2020,Louisiana,Private,4-year,Room/Board,13544
+2020,Louisiana,Public In-State,2-year,Fees/Tuition,4166
+2020,Louisiana,Public In-State,4-year,Fees/Tuition,9571
+2020,Louisiana,Public In-State,4-year,Room/Board,9927
+2020,Louisiana,Public Out-of-State,2-year,Fees/Tuition,8282
+2020,Louisiana,Public Out-of-State,4-year,Fees/Tuition,22128
+2020,Louisiana,Public Out-of-State,4-year,Room/Board,9927
+2020,Maine,Private,4-year,Fees/Tuition,40353
+2020,Maine,Private,4-year,Room/Board,14022
+2020,Maine,Public In-State,2-year,Fees/Tuition,3778
+2020,Maine,Public In-State,4-year,Fees/Tuition,10103
+2020,Maine,Public In-State,4-year,Room/Board,10355
+2020,Maine,Public Out-of-State,2-year,Fees/Tuition,6642
+2020,Maine,Public Out-of-State,4-year,Fees/Tuition,28523
+2020,Maine,Public Out-of-State,4-year,Room/Board,10355
+2020,Maryland,Private,4-year,Fees/Tuition,44048
+2020,Maryland,Private,4-year,Room/Board,14689
+2020,Maryland,Public In-State,2-year,Fees/Tuition,4330
+2020,Maryland,Public In-State,4-year,Fees/Tuition,9714
+2020,Maryland,Public In-State,4-year,Room/Board,12790
+2020,Maryland,Public Out-of-State,2-year,Fees/Tuition,10308
+2020,Maryland,Public Out-of-State,4-year,Fees/Tuition,27984
+2020,Maryland,Public Out-of-State,4-year,Room/Board,12790
+2020,Massachusetts,Private,4-year,Fees/Tuition,47980
+2020,Massachusetts,Private,4-year,Room/Board,16217
+2020,Massachusetts,Public In-State,2-year,Fees/Tuition,5336
+2020,Massachusetts,Public In-State,4-year,Fees/Tuition,13729
+2020,Massachusetts,Public In-State,4-year,Room/Board,13889
+2020,Massachusetts,Public Out-of-State,2-year,Fees/Tuition,10690
+2020,Massachusetts,Public Out-of-State,4-year,Fees/Tuition,31894
+2020,Massachusetts,Public Out-of-State,4-year,Room/Board,13889
+2020,Michigan,Private,4-year,Fees/Tuition,29405
+2020,Michigan,Private,4-year,Room/Board,10381
+2020,Michigan,Public In-State,2-year,Fees/Tuition,3703
+2020,Michigan,Public In-State,4-year,Fees/Tuition,13315
+2020,Michigan,Public In-State,4-year,Room/Board,10772
+2020,Michigan,Public Out-of-State,2-year,Fees/Tuition,6564
+2020,Michigan,Public Out-of-State,4-year,Fees/Tuition,36832
+2020,Michigan,Public Out-of-State,4-year,Room/Board,10772
+2020,Minnesota,Private,4-year,Fees/Tuition,34321
+2020,Minnesota,Private,4-year,Room/Board,10877
+2020,Minnesota,Public In-State,2-year,Fees/Tuition,5566
+2020,Minnesota,Public In-State,4-year,Fees/Tuition,11748
+2020,Minnesota,Public In-State,4-year,Room/Board,9863
+2020,Minnesota,Public Out-of-State,2-year,Fees/Tuition,6151
+2020,Minnesota,Public Out-of-State,4-year,Fees/Tuition,24442
+2020,Minnesota,Public Out-of-State,4-year,Room/Board,9863
+2020,Mississippi,Private,4-year,Fees/Tuition,18612
+2020,Mississippi,Private,4-year,Room/Board,8607
+2020,Mississippi,Public In-State,2-year,Fees/Tuition,3432
+2020,Mississippi,Public In-State,4-year,Fees/Tuition,8604
+2020,Mississippi,Public In-State,4-year,Room/Board,10476
+2020,Mississippi,Public Out-of-State,2-year,Fees/Tuition,5835
+2020,Mississippi,Public Out-of-State,4-year,Fees/Tuition,19402
+2020,Mississippi,Public Out-of-State,4-year,Room/Board,10476
+2020,Missouri,Private,4-year,Fees/Tuition,26377
+2020,Missouri,Private,4-year,Room/Board,10705
+2020,Missouri,Public In-State,2-year,Fees/Tuition,3545
+2020,Missouri,Public In-State,4-year,Fees/Tuition,8992
+2020,Missouri,Public In-State,4-year,Room/Board,9742
+2020,Missouri,Public Out-of-State,2-year,Fees/Tuition,6797
+2020,Missouri,Public Out-of-State,4-year,Fees/Tuition,20877
+2020,Missouri,Public Out-of-State,4-year,Room/Board,9742
+2020,Montana,Private,4-year,Fees/Tuition,31724
+2020,Montana,Private,4-year,Room/Board,9817
+2020,Montana,Public In-State,2-year,Fees/Tuition,3871
+2020,Montana,Public In-State,4-year,Fees/Tuition,6967
+2020,Montana,Public In-State,4-year,Room/Board,9765
+2020,Montana,Public Out-of-State,2-year,Fees/Tuition,8596
+2020,Montana,Public Out-of-State,4-year,Fees/Tuition,25239
+2020,Montana,Public Out-of-State,4-year,Room/Board,9765
+2020,Nebraska,Private,4-year,Fees/Tuition,25313
+2020,Nebraska,Private,4-year,Room/Board,9797
+2020,Nebraska,Public In-State,2-year,Fees/Tuition,3103
+2020,Nebraska,Public In-State,4-year,Fees/Tuition,8582
+2020,Nebraska,Public In-State,4-year,Room/Board,10938
+2020,Nebraska,Public Out-of-State,2-year,Fees/Tuition,3969
+2020,Nebraska,Public Out-of-State,4-year,Fees/Tuition,22152
+2020,Nebraska,Public Out-of-State,4-year,Room/Board,10938
+2020,Nevada,Private,4-year,Fees/Tuition,26284
+2020,Nevada,Private,4-year,Room/Board,14187
+2020,Nevada,Public In-State,4-year,Fees/Tuition,6023
+2020,Nevada,Public In-State,4-year,Room/Board,11964
+2020,Nevada,Public Out-of-State,4-year,Fees/Tuition,21678
+2020,Nevada,Public Out-of-State,4-year,Room/Board,11964
+2020,New Hampshire,Private,4-year,Fees/Tuition,33446
+2020,New Hampshire,Private,4-year,Room/Board,14070
+2020,New Hampshire,Public In-State,2-year,Fees/Tuition,7130
+2020,New Hampshire,Public In-State,4-year,Fees/Tuition,16679
+2020,New Hampshire,Public In-State,4-year,Room/Board,12055
+2020,New Hampshire,Public Out-of-State,2-year,Fees/Tuition,15335
+2020,New Hampshire,Public Out-of-State,4-year,Fees/Tuition,30594
+2020,New Hampshire,Public Out-of-State,4-year,Room/Board,12055
+2020,New Jersey,Private,4-year,Fees/Tuition,38652
+2020,New Jersey,Private,4-year,Room/Board,13980
+2020,New Jersey,Public In-State,2-year,Fees/Tuition,4779
+2020,New Jersey,Public In-State,4-year,Fees/Tuition,14360
+2020,New Jersey,Public In-State,4-year,Room/Board,14012
+2020,New Jersey,Public Out-of-State,2-year,Fees/Tuition,8092
+2020,New Jersey,Public Out-of-State,4-year,Fees/Tuition,29435
+2020,New Jersey,Public Out-of-State,4-year,Room/Board,14012
+2020,New Mexico,Private,4-year,Fees/Tuition,25363
+2020,New Mexico,Private,4-year,Room/Board,11599
+2020,New Mexico,Public In-State,2-year,Fees/Tuition,1724
+2020,New Mexico,Public In-State,4-year,Fees/Tuition,7152
+2020,New Mexico,Public In-State,4-year,Room/Board,9041
+2020,New Mexico,Public Out-of-State,2-year,Fees/Tuition,6624
+2020,New Mexico,Public Out-of-State,4-year,Fees/Tuition,19181
+2020,New Mexico,Public Out-of-State,4-year,Room/Board,9041
+2020,New York,Private,4-year,Fees/Tuition,41404
+2020,New York,Private,4-year,Room/Board,15554
+2020,New York,Public In-State,2-year,Fees/Tuition,5476
+2020,New York,Public In-State,4-year,Fees/Tuition,8467
+2020,New York,Public In-State,4-year,Room/Board,15408
+2020,New York,Public Out-of-State,2-year,Fees/Tuition,9228
+2020,New York,Public Out-of-State,4-year,Fees/Tuition,22669
+2020,New York,Public Out-of-State,4-year,Room/Board,15408
+2020,North Carolina,Private,4-year,Fees/Tuition,35379
+2020,North Carolina,Private,4-year,Room/Board,12628
+2020,North Carolina,Public In-State,2-year,Fees/Tuition,2494
+2020,North Carolina,Public In-State,4-year,Fees/Tuition,7228
+2020,North Carolina,Public In-State,4-year,Room/Board,10342
+2020,North Carolina,Public Out-of-State,2-year,Fees/Tuition,8658
+2020,North Carolina,Public Out-of-State,4-year,Fees/Tuition,23357
+2020,North Carolina,Public Out-of-State,4-year,Room/Board,10342
+2020,North Dakota,Private,4-year,Fees/Tuition,15732
+2020,North Dakota,Private,4-year,Room/Board,7971
+2020,North Dakota,Public In-State,2-year,Fees/Tuition,5073
+2020,North Dakota,Public In-State,4-year,Fees/Tuition,8628
+2020,North Dakota,Public In-State,4-year,Room/Board,8821
+2020,North Dakota,Public Out-of-State,2-year,Fees/Tuition,6031
+2020,North Dakota,Public Out-of-State,4-year,Fees/Tuition,13936
+2020,North Dakota,Public Out-of-State,4-year,Room/Board,8821
+2020,Ohio,Private,4-year,Fees/Tuition,34009
+2020,Ohio,Private,4-year,Room/Board,11861
+2020,Ohio,Public In-State,2-year,Fees/Tuition,4330
+2020,Ohio,Public In-State,4-year,Fees/Tuition,9902
+2020,Ohio,Public In-State,4-year,Room/Board,12486
+2020,Ohio,Public Out-of-State,2-year,Fees/Tuition,7528
+2020,Ohio,Public Out-of-State,4-year,Fees/Tuition,24830
+2020,Ohio,Public Out-of-State,4-year,Room/Board,12486
+2020,Oklahoma,Private,4-year,Fees/Tuition,29429
+2020,Oklahoma,Private,4-year,Room/Board,9846
+2020,Oklahoma,Public In-State,2-year,Fees/Tuition,4150
+2020,Oklahoma,Public In-State,4-year,Fees/Tuition,8009
+2020,Oklahoma,Public In-State,4-year,Room/Board,8950
+2020,Oklahoma,Public Out-of-State,2-year,Fees/Tuition,9484
+2020,Oklahoma,Public Out-of-State,4-year,Fees/Tuition,21695
+2020,Oklahoma,Public Out-of-State,4-year,Room/Board,8950
+2020,Oregon,Private,4-year,Fees/Tuition,42202
+2020,Oregon,Private,4-year,Room/Board,12931
+2020,Oregon,Public In-State,2-year,Fees/Tuition,4881
+2020,Oregon,Public In-State,4-year,Fees/Tuition,10813
+2020,Oregon,Public In-State,4-year,Room/Board,12769
+2020,Oregon,Public Out-of-State,2-year,Fees/Tuition,8640
+2020,Oregon,Public Out-of-State,4-year,Fees/Tuition,32068
+2020,Oregon,Public Out-of-State,4-year,Room/Board,12769
+2020,Pennsylvania,Private,4-year,Fees/Tuition,42812
+2020,Pennsylvania,Private,4-year,Room/Board,13945
+2020,Pennsylvania,Public In-State,2-year,Fees/Tuition,5348
+2020,Pennsylvania,Public In-State,4-year,Fees/Tuition,15565
+2020,Pennsylvania,Public In-State,4-year,Room/Board,11839
+2020,Pennsylvania,Public Out-of-State,2-year,Fees/Tuition,13480
+2020,Pennsylvania,Public Out-of-State,4-year,Fees/Tuition,30222
+2020,Pennsylvania,Public Out-of-State,4-year,Room/Board,11839
+2020,Rhode Island,Private,4-year,Fees/Tuition,43919
+2020,Rhode Island,Private,4-year,Room/Board,15402
+2020,Rhode Island,Public In-State,2-year,Fees/Tuition,4700
+2020,Rhode Island,Public In-State,4-year,Fees/Tuition,13105
+2020,Rhode Island,Public In-State,4-year,Room/Board,12487
+2020,Rhode Island,Public Out-of-State,2-year,Fees/Tuition,12544
+2020,Rhode Island,Public Out-of-State,4-year,Fees/Tuition,30871
+2020,Rhode Island,Public Out-of-State,4-year,Room/Board,12487
+2020,South Carolina,Private,4-year,Fees/Tuition,26270
+2020,South Carolina,Private,4-year,Room/Board,9965
+2020,South Carolina,Public In-State,2-year,Fees/Tuition,4916
+2020,South Carolina,Public In-State,4-year,Fees/Tuition,12497
+2020,South Carolina,Public In-State,4-year,Room/Board,10293
+2020,South Carolina,Public Out-of-State,2-year,Fees/Tuition,10206
+2020,South Carolina,Public Out-of-State,4-year,Fees/Tuition,32853
+2020,South Carolina,Public Out-of-State,4-year,Room/Board,10293
+2020,South Dakota,Private,4-year,Fees/Tuition,25353
+2020,South Dakota,Private,4-year,Room/Board,8253
+2020,South Dakota,Public In-State,2-year,Fees/Tuition,6469
+2020,South Dakota,Public In-State,4-year,Fees/Tuition,8978
+2020,South Dakota,Public In-State,4-year,Room/Board,8320
+2020,South Dakota,Public Out-of-State,2-year,Fees/Tuition,6043
+2020,South Dakota,Public Out-of-State,4-year,Fees/Tuition,12866
+2020,South Dakota,Public Out-of-State,4-year,Room/Board,8320
+2020,Tennessee,Private,4-year,Fees/Tuition,29200
+2020,Tennessee,Private,4-year,Room/Board,10838
+2020,Tennessee,Public In-State,2-year,Fees/Tuition,4379
+2020,Tennessee,Public In-State,4-year,Fees/Tuition,10164
+2020,Tennessee,Public In-State,4-year,Room/Board,10196
+2020,Tennessee,Public Out-of-State,2-year,Fees/Tuition,16937
+2020,Tennessee,Public Out-of-State,4-year,Fees/Tuition,24786
+2020,Tennessee,Public Out-of-State,4-year,Room/Board,10196
+2020,Texas,Private,4-year,Fees/Tuition,36014
+2020,Texas,Private,4-year,Room/Board,12017
+2020,Texas,Public In-State,2-year,Fees/Tuition,2380
+2020,Texas,Public In-State,4-year,Fees/Tuition,8598
+2020,Texas,Public In-State,4-year,Room/Board,10113
+2020,Texas,Public Out-of-State,2-year,Fees/Tuition,6373
+2020,Texas,Public Out-of-State,4-year,Fees/Tuition,24889
+2020,Texas,Public Out-of-State,4-year,Room/Board,10113
+2020,Utah,Private,4-year,Fees/Tuition,7600
+2020,Utah,Private,4-year,Room/Board,8107
+2020,Utah,Public In-State,2-year,Fees/Tuition,3929
+2020,Utah,Public In-State,4-year,Fees/Tuition,6700
+2020,Utah,Public In-State,4-year,Room/Board,7919
+2020,Utah,Public Out-of-State,2-year,Fees/Tuition,12460
+2020,Utah,Public Out-of-State,4-year,Fees/Tuition,21273
+2020,Utah,Public Out-of-State,4-year,Room/Board,7919
+2020,Vermont,Private,4-year,Fees/Tuition,46445
+2020,Vermont,Private,4-year,Room/Board,14576
+2020,Vermont,Public In-State,2-year,Fees/Tuition,6654
+2020,Vermont,Public In-State,4-year,Fees/Tuition,17083
+2020,Vermont,Public In-State,4-year,Room/Board,12582
+2020,Vermont,Public Out-of-State,2-year,Fees/Tuition,13398
+2020,Vermont,Public Out-of-State,4-year,Fees/Tuition,41057
+2020,Vermont,Public Out-of-State,4-year,Room/Board,12582
+2020,Virginia,Private,4-year,Fees/Tuition,23493
+2020,Virginia,Private,4-year,Room/Board,11255
+2020,Virginia,Public In-State,2-year,Fees/Tuition,5237
+2020,Virginia,Public In-State,4-year,Fees/Tuition,13655
+2020,Virginia,Public In-State,4-year,Room/Board,11419
+2020,Virginia,Public Out-of-State,2-year,Fees/Tuition,11529
+2020,Virginia,Public Out-of-State,4-year,Fees/Tuition,35831
+2020,Virginia,Public Out-of-State,4-year,Room/Board,11419
+2020,Washington,Private,4-year,Fees/Tuition,39791
+2020,Washington,Private,4-year,Room/Board,12541
+2020,Washington,Public In-State,2-year,Fees/Tuition,4468
+2020,Washington,Public In-State,4-year,Fees/Tuition,7168
+2020,Washington,Public In-State,4-year,Room/Board,12678
+2020,Washington,Public Out-of-State,2-year,Fees/Tuition,6500
+2020,Washington,Public Out-of-State,4-year,Fees/Tuition,30155
+2020,Washington,Public Out-of-State,4-year,Room/Board,12678
+2020,West Virginia,Private,4-year,Fees/Tuition,12673
+2020,West Virginia,Private,4-year,Room/Board,9773
+2020,West Virginia,Public In-State,2-year,Fees/Tuition,4344
+2020,West Virginia,Public In-State,4-year,Fees/Tuition,8195
+2020,West Virginia,Public In-State,4-year,Room/Board,10839
+2020,West Virginia,Public Out-of-State,2-year,Fees/Tuition,9976
+2020,West Virginia,Public Out-of-State,4-year,Fees/Tuition,22242
+2020,West Virginia,Public Out-of-State,4-year,Room/Board,10839
+2020,Wisconsin,Private,4-year,Fees/Tuition,35554
+2020,Wisconsin,Private,4-year,Room/Board,11244
+2020,Wisconsin,Public In-State,2-year,Fees/Tuition,4476
+2020,Wisconsin,Public In-State,4-year,Fees/Tuition,8764
+2020,Wisconsin,Public In-State,4-year,Room/Board,9020
+2020,Wisconsin,Public Out-of-State,2-year,Fees/Tuition,6499
+2020,Wisconsin,Public Out-of-State,4-year,Fees/Tuition,25522
+2020,Wisconsin,Public Out-of-State,4-year,Room/Board,9020
+2020,Wyoming,Public In-State,2-year,Fees/Tuition,4136
+2020,Wyoming,Public In-State,4-year,Fees/Tuition,4747
+2020,Wyoming,Public In-State,4-year,Room/Board,10154
+2020,Wyoming,Public Out-of-State,2-year,Fees/Tuition,10101
+2020,Wyoming,Public Out-of-State,4-year,Fees/Tuition,14803
+2020,Wyoming,Public Out-of-State,4-year,Room/Board,10154
